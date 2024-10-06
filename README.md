@@ -1,0 +1,1 @@
+O objetivo dessa API é receber via chamada REST os parametos user, repository, e a url de um webhook. Com isso buscar no github as issues e contribuidores do repositório informado e os enviar para o webhook.
